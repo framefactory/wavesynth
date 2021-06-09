@@ -1,0 +1,6 @@
+[submodule "lib/ff-esp-arduino"]
+	path = lib/ff-esp-arduino
+	url = git@github.com:framefactory/ff-esp-arduino
+[submodule "lib/ff-esp-native"]
+	path = lib/ff-esp-native
+	url = git@github.com:framefactory/ff-esp-native.git
